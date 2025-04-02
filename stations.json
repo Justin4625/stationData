@@ -45,7 +45,7 @@
   {"id": 44, "station": "Zalmplaat", "latitude": 51.8738, "longitude": 4.6732},
   {"id": 45, "station": "Spijkenisse Centrum", "latitude": 51.8759, "longitude": 4.6654},
   {"id": 46, "station": "Heemraadlaan", "latitude": 51.8780, "longitude": 4.6576},
-  {"id": 47, "station": "De Akkers", "latitude": 51.8801, "longitude": 4.6498}
+  {"id": 47, "station": "De Akkers", "latitude": 51.8801, "longitude": 4.6498},
   {"id": 48, "station": "Rotterdam Centraal", "latitude": 51.9244, "longitude": 4.4699},
   {"id": 49, "station": "Stadhuis", "latitude": 51.9225, "longitude": 4.4811},
   {"id": 50, "station": "Leuvehaven", "latitude": 51.9145, "longitude": 4.4801},
